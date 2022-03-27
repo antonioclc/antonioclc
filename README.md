@@ -24,6 +24,7 @@
 <img align="center" width="400" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioclc&show_icons=true&locale=en&layout=compact&theme=dracula" alt="antonioclc" /> 
 <img align="center" width="400" hspace="10" src="https://github-readme-stats.vercel.app/api?username=antonioclc&show_icons=true&theme=dracula" />
 </p>
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.instagram.com/toninho_campos99/" target="_blank"   rel="noreferrer">
