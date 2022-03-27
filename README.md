@@ -1,11 +1,8 @@
 <h2 align="center">Hi 👋, I'm Antônio Campos!</h2>
 <h4 align="center">Full Stack Web Developer</h4>
 <hr>
-<br>
 <p align="center">Hello everyone, I'm from Brazil and I'm studying web development 🇧🇷</p>
-<br>
 <h3 align="center">Technologies and tools:</h3>
-<br>
 <p align="center">
   <img width="35" height="35" hspace="10"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="35" height="35" hspace="5"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="css3" width="40" height="40"/> 
@@ -23,14 +20,11 @@
   <img width="35" height="35" hspace="5"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img width="35" height="35" hspace="5"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
 </p>
-<br>
 <p>
-<img align="center" width="380" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioclc&show_icons=true&locale=en&layout=compact&theme=dracula" alt="antonioclc" /> 
-<img align="center" width="380" hspace="10" src="https://github-readme-stats.vercel.app/api?username=antonioclc&show_icons=true&theme=dracula" />
+<img align="center" width="400" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioclc&show_icons=true&locale=en&layout=compact&theme=dracula" alt="antonioclc" /> 
+<img align="center" width="400" hspace="10" src="https://github-readme-stats.vercel.app/api?username=antonioclc&show_icons=true&theme=dracula" />
 </p>
-<br>
 <h3 align="center">Connect with me:</h3>
-<br>
 <p align="center">
   <a href="https://www.instagram.com/toninho_campos99/" target="_blank"   rel="noreferrer">
   <img src=https://github.com/antonioclc/antonioclc/blob/main/logo-instagram-by-www.flaticon.com.png?raw=true alt="instagram" width="35" height="35" hspace="8"/>
