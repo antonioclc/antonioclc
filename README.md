@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Antônio Campos!</h2>
+<h1 align="center">Hi 👋, I'm Antônio Campos!</h1>
 <h4 align="center">Full Stack Web Developer</h4>
 <hr>
 <p align="center">Hello everyone, I'm from Brazil and I'm studying web development 🇧🇷</p>
