@@ -21,8 +21,8 @@
   <img width="35" height="35" hspace="5"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
 </p>
 <p>
-<img align="center" width="400" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioclc&show_icons=true&locale=en&layout=compact&theme=dracula" alt="antonioclc" /> 
-<img align="center" width="400" hspace="10" src="https://github-readme-stats.vercel.app/api?username=antonioclc&show_icons=true&theme=dracula" />
+<img align="center" width="400" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioclc&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="antonioclc" /> 
+<img align="center" width="400" hspace="10" src="https://github-readme-stats.vercel.app/api?username=antonioclc&show_icons=true&theme=cobalt" />
 </p>
 <br>
 <h3 align="center">Connect with me:</h3>
