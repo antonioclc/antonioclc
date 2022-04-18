@@ -2,7 +2,11 @@
 <h1 align="center">Hi 👋, I'm Antônio Campos!</h1>
 <br>
 <p align="center">🇧🇷 Hello everyone, I'm from Brazil and I'm studying web development 🇧🇷</p>
-<p align="center"><a href="https://antonioclc.github.io/portfolio-antonioclc/" target="_blank"   rel="noreferrer">🖥️  See my portfolio here</a></p>
+<p align="center">🖥️  See my portfolio <a href="https://antonioclc.github.io/portfolio-antonioclc/" target="_blank" rel="noreferrer">here</a></p>
+<p align="center">You can contact me at <a href="mailto:aclcampos@live.com" target="_blank"   rel="noreferrer">aclcampos@live.com</a></p>
+
+
+
 <h3 align="center">Technologies and tools:</h3>
 <p align="center">
   <img width="35" height="35" hspace="10"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
