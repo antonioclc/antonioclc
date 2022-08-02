@@ -1,8 +1,7 @@
 <h4 align="center">Full Stack Web Developer</h4>
 <h1 align="center">Hi 👋, I'm Antônio Campos!</h1>
 <br>
-<p align="center">🇧🇷 Hello everyone, I'm from Brazil and I'm studying web development 🇧🇷</p>
-<p align="center">🖥️  See my portfolio <a href="https://antonioclc.github.io/portfolio-antonioclc/" target="_blank" rel="noreferrer">here</a></p>
+<p align="center"> Hello everyone, I'm from Brazil and I'm studying web/cloud development </p>
 <p align="center">✉️ You can contact me at <a href="mailto:aclcampos@live.com" target="_blank"   rel="noreferrer">aclcampos@live.com</a></p>
 <br>
 <h3 align="center">Technologies and tools:</h3>
