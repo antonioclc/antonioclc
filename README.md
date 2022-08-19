@@ -18,7 +18,4 @@
   <a href="https://www.linkedin.com/in/ant%C3%B4nio-campos/" target="_blank"   rel="noreferrer">
     <img src=https://github.com/antonioclc/antonioclc/blob/main/logo-linkedin-by-www.flaticon.com.png?raw=true alt="instagram" width="35" height="35" hspace="8"/>
   </a>
-  <a href="https://www.linkedin.com/in/ant%C3%B4nio-campos/" target="_blank"   rel="noreferrer">
-    <img src=https://github.com/antonioclc/antonioclc/blob/main/logo-whatsapp-by-www.flaticon.com.png?raw=true alt="instagram" width="35" height="35" hspace="8"/>
-  </a>
 </p>   
