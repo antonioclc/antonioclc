@@ -3,6 +3,12 @@
 <p align="center">💚 Apaixonado por tecnologia e interações digitais</p>
 <br>
 <h3 align="center">Tecnlogias principais:</h3>
+<a href="https://www.linkedin.com/in/ant%C3%B4nio-campos/" target="_blank"   rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ant%C3%B4nio-campos/" target="_blank"   rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
