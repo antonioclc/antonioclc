@@ -52,7 +52,4 @@
 <a href="https://www.instagram.com/toninho_campos99/" target="_blank"   rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="http://api.whatsapp.com/send?1=pt_BR&phone=5581997268325" target="_blank"   rel="noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
 </p>
